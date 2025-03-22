@@ -1,0 +1,32 @@
+{
+    "USERS": {
+        "bruh": {
+            "name": "Professor",
+            "Title": "Sr. Doctor",
+            "Pswd": "bruh",
+            "Mobile": "123456789",
+            "email": "bruh@gmail.com"
+        },
+        "spidyy": {
+            "name": "spiderman",
+            "Title": "Nurse",
+            "Pswd": "spidyy",
+            "Mobile": "5656565656",
+            "email": "spider@web.com"
+        },
+        "johndoe": {
+            "name": "John Doe",
+            "Title": "Jr. Doctor",
+            "Pswd": "johndoe123",
+            "Mobile": "9489796548",
+            "email": "johndoe@gmail.com"
+        },
+        "johnV": {
+            "name": "John Viking",
+            "Title": "Nutritionist",
+            "Pswd": "john@123",
+            "Mobile": "978654532",
+            "email": "johnviking@gmail.com"
+        }
+    }
+}
